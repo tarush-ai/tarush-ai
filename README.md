@@ -1,7 +1,6 @@
 # 👋 Hi There, I'm Tarush. Nice to meet you.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/tarush-gupta-551139334/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-3b82f6?style=for-the-badge)](https://tarush.ai)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tarushgs@gmail.com)
 
 I'm a high school student in my junior year at [The Harker School](https://www.harker.org/), focused on AI, ML, and systems building.
