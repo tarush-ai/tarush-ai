@@ -11,22 +11,22 @@ I'm a high school student in my junior year at [The Harker School](https://www.h
 ## LM/GPT Repos
 | Repo | Purpose | Status |
 |:-------------|:--------:|:--------:|
-| AureliusGPT-Torch    | A PyTorch, SentencePiece 100k parameter MHA/PostNorm model trained on _Meditations_ by Marcus Aurelius.      | Work in Progress |
-| AureliusGPT    | A NumPy first 100k parameter MHA/PostNorm model trained on _Meditations_ by Marcus Aurelius (manual backprop, handwritten BPE).       | Work in Progress |
-| MeaninglessGPT    | A NumPy first single head attention transformer block (no Add/LN) designed to overfit on a pattern / vocabulary.      | Completed |
+| [![AureliusGPT-Torch](https://img.shields.io/badge/AureliusGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/AureliusGPT-Torch)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A PyTorch, SentencePiece 100k parameter MHA/PostNorm model trained on _Meditations_ by Marcus Aurelius. | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
+| [![AureliusGPT](https://img.shields.io/badge/AureliusGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/AureliusGPT) | A NumPy first 100k parameter MHA/PostNorm model trained on _Meditations_ by Marcus Aurelius (manual backprop, handwritten BPE). | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
+| [![MeaninglessGPT](https://img.shields.io/badge/MeaninglessGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/MeaninglessGPT) | A NumPy first single head attention transformer block (no Add/LN) designed to overfit on a pattern / vocabulary. | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=for-the-badge) |
 
-# ML/Broader AI Repos
+## ML/Broader AI Repos
 | Repo | Purpose | Status |
 |:-------------|:--------:|:--------:|
-| MLPLibrary    | A class library useful for MLP implementation.       | Work in Progress |
-| WorkThruster AI    | My first project in AI: A vibecoded todo list generator that reads and evaluates emails and calendar items.      | Completed |
+| [![MLPLibrary](https://img.shields.io/badge/MLPLibrary-111827?style=for-the-badge)](https://github.com/tarush-ai/MLPLibrary) | A class library useful for MLP implementation. | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
+| [![WorkThrusterAI](https://img.shields.io/badge/WorkThrusterAI-111827?style=for-the-badge)](https://github.com/tarush-ai/WorkThrusterAI) | My first project in AI: A vibecoded todo list generator that reads and evaluates emails and calendar items. | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=for-the-badge) |
 
 ## Non AI Repos
-
 | Repo | Purpose | Status |
 |:-------------|:--------:|:--------:|
-| Personal Website  | My personal website. | Work in Progress |
-| Compiler  | A Java implementation of a PASCAL to MIPS Assembly Compiler for ATCS: Compilers and Interpreters. | Completed |
+| [![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-111827?style=for-the-badge)](https://github.com/tarush-ai/PersonalWebsite) | My personal website. | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
+| [![Compiler](https://img.shields.io/badge/Compiler-111827?style=for-the-badge)](https://github.com/tarush-ai/Compiler) | A Java implementation of a PASCAL to MIPS Assembly Compiler for ATCS: Compilers and Interpreters. | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=for-the-badge) |
+
 
 # My Experience
 
