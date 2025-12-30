@@ -7,19 +7,24 @@ I'm a high school student in my junior year at [The Harker School](https://www.h
 
 # My Public Repos
 
-## LM/GPT Repos
+## TarushGPT
 | Repo | Purpose | Status |
 |:-------------|:--------:|:--------:|
-| ![TarushGPT](https://img.shields.io/badge/TarushGPT-111827?style=for-the-badge)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A 200M GPT-2 architecture model trained on The Pile and mid/posttrained on CUA actions and my activities/extracuriculars/interests. | ![Unstarted](https://img.shields.io/badge/Unstarted-red?style=for-the-badge) |
-| ![SLM](https://img.shields.io/badge/SLM-111827?style=for-the-badge)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A PyTorch, SentencePiece 5-10M parameter MHA/PreNorm model pretrained on The Pile and mid/posttrained on an undecided corpus. | ![Unstarted](https://img.shields.io/badge/Unstarted-red?style=for-the-badge) |
-| [![AureliusGPT-Torch](https://img.shields.io/badge/AureliusGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/AureliusGPT-Torch)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A PyTorch, SentencePiece 100k parameter MHA/PostNorm model trained on _Meditations_ by Marcus Aurelius. | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
+| ![TarushGPT-large](https://img.shields.io/badge/TarushGPT--large-111827?style=for-the-badge)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A 200M GPT-2 architecture model trained on The Pile and mid/post trained on CUA actions and my activities/extracuriculars/interests. | ![Unstarted](https://img.shields.io/badge/Unstarted-red?style=for-the-badge) |
+| ![TarushGPT-mini](https://img.shields.io/badge/TarushGPT--mini-111827?style=for-the-badge)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A 5-10M parameter MHA/PreNorm model pretrained on The Pile and mid/post trained on CUA actions and my activities/extracuriculars/interests. | ![Unstarted](https://img.shields.io/badge/Unstarted-red?style=for-the-badge) |
+| ![TarushGPT-nano](https://img.shields.io/badge/TarushGPT--nano-111827?style=for-the-badge)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A 5-10M parameter MHA/PreNorm model trained through OPD from TarushGPT, with unique orchestration post training between TarushGPT and TarushGPT-mini. | ![Unstarted](https://img.shields.io/badge/Unstarted-red?style=for-the-badge) |
+
+## AureliusGPT
+| Repo | Purpose | Status |
+|:-------------|:--------:|:--------:|
+| [![TarushGPT-Aurelius-Instruct](https://img.shields.io/badge/TarushGPT--Aurelius--Instruct-111827?style=for-the-badge)](https://github.com/tarush-ai/AureliusGPT-Torch)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | An instruct model of TarushGPT-large, post-trained on _Meditations_ by Marcus Aurelius. | ![Unstarted](https://img.shields.io/badge/Unstarted-red?style=for-the-badge) |
 | [![AureliusGPT-Torch](https://img.shields.io/badge/AureliusGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/AureliusGPT-Torch)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | A PyTorch, SentencePiece 100k parameter MHA/PostNorm model trained on _Meditations_ by Marcus Aurelius. | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
 | [![AureliusGPT](https://img.shields.io/badge/AureliusGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/AureliusGPT) | A NumPy first 100k parameter MHA/PostNorm model trained on _Meditations_ by Marcus Aurelius (manual backprop, handwritten BPE). | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
-| [![MeaninglessGPT](https://img.shields.io/badge/MeaninglessGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/MeaninglessGPT) | A NumPy first single head attention transformer block (no Add/LN) designed to overfit on a pattern / vocabulary. | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=for-the-badge) |
 
-## ML/Broader AI Repos
+## Beginner ML/AI Repos
 | Repo | Purpose | Status |
 |:-------------|:--------:|:--------:|
+| [![MeaninglessGPT](https://img.shields.io/badge/MeaninglessGPT-111827?style=for-the-badge)](https://github.com/tarush-ai/MeaninglessGPT) | A NumPy first single head attention transformer block (no Add/LN) designed to overfit on a pattern / vocabulary. | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=for-the-badge) |
 | [![MLPLibrary](https://img.shields.io/badge/MLPLibrary-111827?style=for-the-badge)](https://github.com/tarush-ai/MLPLibrary) | A class library useful for MLP implementation. | ![Working](https://img.shields.io/badge/Working-yellow?style=for-the-badge) |
 | [![WorkThrusterAI](https://img.shields.io/badge/WorkThrusterAI-111827?style=for-the-badge)](https://github.com/tarush-ai/WorkThrusterAI) | My first project in AI: A vibecoded todo list generator that reads and evaluates emails and calendar items. | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=for-the-badge) |
 
