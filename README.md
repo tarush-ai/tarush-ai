@@ -1,9 +1,16 @@
-# 👋 Hi There, I'm Tarush. Nice to meet you.
+<h1 align="center">
+  👋 Hi There, I'm Tarush. Nice to meet you.
+</h1>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/tarush-gupta-551139334/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tarushgs@gmail.com)
-[![Personal Website](https://img.shields.io/badge/Personal_Website-111827?style=for-the-badge)](https://www.tarush.ai)
+<div align="center">
 
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/tarush-gupta-551139334/)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/tarushgs)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tarushgs@gmail.com)
+  [![Personal Website](https://img.shields.io/badge/Personal_Website-111827?style=for-the-badge)](https://www.tarush.ai)
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)](https://huggingface.co/Tarush-AI)
+  
+</div>
 
 I'm a high school student in my junior year at [The Harker School](https://www.harker.org/), focused on AI, ML, and systems building.
 
@@ -43,30 +50,24 @@ I'm a high school student in my junior year at [The Harker School](https://www.h
 
 ### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/VeriCare.svg" width="28" /> [VeriCare AI](https://vericareai.com/): Cofounder
 
-Using AI to democratize medical billing for everyone.  
 Contact me [here for VeriCare](mailto:vericareai@gmail.com).
 
 ### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/neuralbridge.svg" width="28" /> [Neural Bridge Podcast](https://www.youtube.com/@NeuralBridgePodcast): Founder & Host
 
-“Bridging the Gap” for Gen Z students interested in AI.  
 Contact me [here for Neural Bridge](mailto:neuralbridgepodcast@gmail.com).
 
 ## Internships
 
-### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/turing.svg" width="28" /> [Turing](https://www.turing.com/): SWE/Research/Product Management Intern
+### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/turing.svg" width="28" /> [Turing](https://www.turing.com/)
 
-Built datasourcing and post training workflows for a frontier lab on their SOTA AI model. Reported to CEO.  
+### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/humanx.svg" width="28" /> [HumanX](https://www.humanx.co/)
 
-[Email me](mailto:tarushgs@gmail.com) for a comprehensive _NDA compliant_ summary of my work.
+### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/ema.svg" width="28" /> [Ema Unlimited](https://www.ema.co/)
 
-### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/humanx.svg" width="28" /> [HumanX](https://www.humanx.co/): SWE/Product Management/Speaker Logistics Intern
-
-### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/ema.svg" width="28" /> [Ema Unlimited](https://www.ema.co/): Competitive Strategy/Product Management Intern
-
-### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/proshort.svg" width="28" /> [ProShort](https://www.proshort.ai/): Competitive Strategy / Product Management Intern
-
-### For more detailed PM internship descriptions, please see my [LinkedIn](https://www.linkedin.com/in/tarush-gupta-551139334/). [Contact me](mailto:tarushgs@gmail.com) with questions.
+### <img src="https://raw.githubusercontent.com/tarush-ai/tarush-ai/refs/heads/main/assets/proshort.svg" width="28" /> [ProShort](https://www.proshort.ai)
 
 ---
 
-## Note: All public GitHub contributions on this account are personal and do not compromise the IP of any of the above companies or VeriCare; IP is stored on company GitHubs only.
+### For more details on any of these, please see my [LinkedIn](https://www.linkedin.com/in/tarush-gupta-551139334/). [Contact me](mailto:tarushgs@gmail.com) with questions.
+
+### Note: All public GitHub contributions on this account are personal and do not compromise the IP of any of the above companies or VeriCare; IP is stored on company GitHubs only.
