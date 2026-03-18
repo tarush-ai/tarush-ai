@@ -5,7 +5,6 @@
 <div align="center">
 
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/tarush-gupta-551139334/)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/tarushgs)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tarushgs@gmail.com)
   [![Personal Website](https://img.shields.io/badge/Personal_Website-111827?style=for-the-badge)](https://www.tarush.ai)
   [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)](https://huggingface.co/Tarush-AI)
