@@ -6,7 +6,7 @@ I'm currently an AI research scientist at [Cisco](https://www.cisco.com) (prev. 
 
 ---
 
-**[from-scratch]()**: From scratch implementations of concepts in machine learning and transformers. Will be used in many other repos.
+**[from-scratch](https://github.com/tarush-ai/from-scratch)**: From scratch implementations of concepts in machine learning and transformers. Will be used in many other repos.
 
 **[AureliusGPT](https://github.com/tarush-ai/AureliusGPT)**: a ~100k-parameter GPT trained on Marcus Aurelius's *Meditations*, written in NumPy with manual backprop and a hand-written BPE tokenizer.
 
