@@ -17,15 +17,17 @@ Formerly AI research/engineering at [Cisco](https://www.cisco.com), [Turing](htt
 
 **[from-scratch](https://github.com/tarush-ai/from-scratch)**: From scratch implementations of concepts in machine learning and transformers. Will be used in many other repos.
 
+**[Compute Preregistration MCP](/https://github.com/tarush-ai/compute-prereg-mcp)**: An MCP for agents to preregister compute allocation in autonomous AI research loops.
+
 **[AureliusGPT](tarush.ai/writing/aureliusgpt)**: A ~100k-parameter GPT trained on Marcus Aurelius's *Meditations*.
 - [AureliusGPT](https://github.com/tarush-ai/AureliusGPT): Written in NumPy with manual backprop and a hand-written BPE tokenizer.
 - [AureliusGPT-Torch](https://github.com/tarush-ai/AureliusGPT-Torch): the same model in PyTorch, with a SentencePiece tokenizer.
 
-**[Compute Preregistration MCP](/https://github.com/tarush-ai/compute-prereg-mcp)**: An MCP for agents to preregister compute allocation in autonomous AI research loops.
-
 **[Compiler](https://github.com/tarush-ai/Compiler)**: a PASCAL → MIPS assembly compiler, written in Java.
 
 **[AdModel](https://github.com/tarush-ai/AdModel)**: a naive attempt at building an LLM ranking advertisement model.
+
+**[PersonalWebsite](https://github.com/tarush-ai/PersonalWebsite)**: My portfolio website. 
 
 **[NeuralNetwork](https://github.com/tarush-gupta/NeuralNetwork)**: a MLP, written in Java.
 
