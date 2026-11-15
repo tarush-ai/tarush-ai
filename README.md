@@ -35,4 +35,4 @@ Formerly AI research/engineering at [Cisco](https://www.cisco.com), [Turing](htt
 
 ---
 
-Some other projects are visible on GitHub. These are all personal projects, not company IP. Feel free to reach out! :)
+Some other projects are visible on GitHub. These are all personal projects, not company IP. Feel free to reach out! 
