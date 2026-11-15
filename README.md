@@ -9,8 +9,8 @@ Formerly AI research/engineering at [Cisco](https://www.cisco.com), [Turing](htt
 ---
 ### Notable Projects:
 
-**[The Fitting Corpus is Part of the Measurement: Auditing a Jacobian Lens on Pythia](tarush.ai/research/fittingcorpus)**:
-- Solo paper accepted to the [NeurIPS '26 Interpretability as a Science workshop](interpscience.github.io) in Sydney. 
+**[The Fitting Corpus is Part of the Measurement: Auditing a Jacobian Lens on Pythia](https://www.tarush.ai/research/fittingcorpus)**:
+- Solo paper accepted to the [NeurIPS '26 Interpretability as a Science workshop](https://interpscience.github.io/) in Sydney. 
 - [Paper](https://tarush.ai/research/fittingcorpus/static/pdf/fittingcorpus-workshop.pdf)
 - [GitHub](https://github.com/tarush-ai/fittingcorpus)
 - [HuggingFace](https://huggingface.co/Tarush-AI/fittingcorpus)
@@ -19,7 +19,7 @@ Formerly AI research/engineering at [Cisco](https://www.cisco.com), [Turing](htt
 
 **[Compute Preregistration MCP](https://github.com/tarush-ai/compute-prereg-mcp)**: An MCP for agents to preregister compute allocation in autonomous AI research loops.
 
-**[AureliusGPT](tarush.ai/writing/aureliusgpt)**: A ~100k-parameter GPT trained on Marcus Aurelius's *Meditations*.
+**[AureliusGPT](https://www.tarush.ai/writing/aureliusgpt)**: A ~100k-parameter GPT trained on Marcus Aurelius's *Meditations*.
 - [AureliusGPT](https://github.com/tarush-ai/AureliusGPT): Written in NumPy with manual backprop and a hand-written BPE tokenizer.
 - [AureliusGPT-Torch](https://github.com/tarush-ai/AureliusGPT-Torch): the same model in PyTorch, with a SentencePiece tokenizer.
 
@@ -29,7 +29,7 @@ Formerly AI research/engineering at [Cisco](https://www.cisco.com), [Turing](htt
 
 **[PersonalWebsite](https://github.com/tarush-ai/PersonalWebsite)**: My portfolio website. 
 
-**[NeuralNetwork](https://github.com/tarush-gupta/NeuralNetwork)**: a MLP, written in Java.
+**[NeuralNetwork](https://github.com/tarush-ai/NeuralNetwork)**: a MLP, written in Java.
 
 **[MeaninglessGPT](https://github.com/tarush-ai/MeaninglessGPT)**: a single-head attention block in NumPy, built to overfit a pattern. See if you can grok it for fun! :)
 
