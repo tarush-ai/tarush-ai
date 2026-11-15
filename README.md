@@ -15,9 +15,9 @@ Formerly AI research/engineering at [Cisco](https://www.cisco.com), [Turing](htt
 - [GitHub](https://github.com/tarush-ai/fittingcorpus)
 - [HuggingFace](https://huggingface.co/Tarush-AI/fittingcorpus)
 
-**[from-scratch](https://github.com/tarush-ai/from-scratch)**: From scratch implementations of concepts in machine learning and transformers. Will be used in many other repos.
-
 **[Compute Preregistration MCP](https://github.com/tarush-ai/compute-prereg-mcp)**: An MCP for agents to preregister compute allocation in autonomous AI research loops.
+
+**[from-scratch](https://github.com/tarush-ai/from-scratch)**: From scratch implementations of concepts in machine learning and transformers. Will be used in many other repos.
 
 **[AureliusGPT](https://www.tarush.ai/writing/aureliusgpt)**: A ~100k-parameter GPT trained on Marcus Aurelius's *Meditations*.
 - [AureliusGPT](https://github.com/tarush-ai/AureliusGPT): Written in NumPy with manual backprop and a hand-written BPE tokenizer.
