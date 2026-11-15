@@ -15,7 +15,7 @@ Formerly AI research/engineering at [Cisco](https://www.cisco.com), [Turing](htt
 - [GitHub](https://github.com/tarush-ai/fittingcorpus)
 - [HuggingFace](https://huggingface.co/Tarush-AI/fittingcorpus)
 
-**[Compute Preregistration MCP](https://github.com/tarush-ai/compute-prereg-mcp)**: An MCP for agents to preregister compute allocation in autonomous AI research loops.
+**[Compute Preregistration MCP](https://github.com/tarush-ai/compute-prereg-mcp)**: an MCP server for estimating, preregistering, and reconciling compute expenditure in autonomous AI research.
 
 **[from-scratch](https://github.com/tarush-ai/from-scratch)**: From scratch implementations of concepts in machine learning and transformers. Will be used in many other repos.
 
